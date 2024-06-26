@@ -7,10 +7,10 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 # install process
 
-# [npm i]
+# `use node version 18 or higher`
 
-# [use node version 18 or higher]
+# `npm i`
 
-# [npm run dev]
+# `npm run dev`
 
 
