@@ -136,7 +136,10 @@
   }
   .btn-season,
   .dropdown-menu {
-    min-width: 300px;
+    min-width: 100%;
+    @media (min-width: 992px) {
+      min-width: 300px;
+    }
     min-height: 61px;
     padding: 12px 16px;
     gap: 12px;
